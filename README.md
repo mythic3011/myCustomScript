@@ -17,7 +17,3 @@ then run the following command to build the exe file
 ```bash
 pyinstaller --onefile <script_name>.py
 ```
-
-## developers
-
-@samwell9624
